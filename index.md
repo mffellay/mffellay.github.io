@@ -5,7 +5,7 @@ layout: default
 
 # CAD
 
-Software used for this was Autodesk Fusion 360.
+**Software used for this was Autodesk Fusion 360.**
 
 Files can be found at: [3Dmodels repository](https://github.com/mffellay/3Dmodels).
 
@@ -20,7 +20,7 @@ Files can be found at: [3Dmodels repository](https://github.com/mffellay/3Dmodel
 
 # PCB
 
-Software used for this was KiCAD.
+**Software used for this was KiCAD.**
 
 Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
