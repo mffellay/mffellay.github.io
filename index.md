@@ -29,5 +29,4 @@ Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
 ## USB Audio Interface _Current project_
 
-<img src="https://github.com/mffellay/PCBs/blob/main/USBAudioInterface/audiointerface.png" alt="">
-<img src="{{https://github.com/mffellay/PCBs/blob/main/USBAudioInterface/audiointerface.png" alt="audiointerface" />
+<img src="https://github.com/mffellay/PCBs/blob/main/USBAudioInterface/audiointerface.png" alt="audiointerface" />
