@@ -10,11 +10,11 @@ Files can be found at: [3Dmodels repository](https://github.com/mffellay/3Dmodel
 
 ## 105mm. Quadcopter frame
 
-<img src="https://raw.githubusercontent.com/mffellay/3Dmodels/main/Drone105mm/drone.png" alt="">
+<img src="https://raw.githubusercontent.com/mffellay/3Dmodels/main/Drone105mm/drone.png" alt="drone">
 
 ## Power Supply case for effects pedals
 
-<img src="https://raw.githubusercontent.com/mffellay/3Dmodels/main/Power%20Supply%20case/casepsu.png" alt="">
+<img src="https://raw.githubusercontent.com/mffellay/3Dmodels/main/Power%20Supply%20case/casepsu.png" alt="casepsu">
 
 
 # PCB
@@ -25,7 +25,7 @@ Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
 ## Power supply for guitar effect pedals. 6 Isolated 9V outputs.
 
-<img src="https://raw.githubusercontent.com/mffellay/PCBs/main/PowerSupply/psu.png" alt="">
+<img src="https://raw.githubusercontent.com/mffellay/PCBs/main/PowerSupply/psu.png" alt="psu">
 
 ## USB Audio Interface _Current project_
 
