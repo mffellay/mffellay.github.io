@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Link to Thesis Preview](./EEGPreview.html).
+[Link to Thesis Preview](./EEGpreview.html).
 
 # CAD
 
