@@ -27,6 +27,8 @@ Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
 <img src="https://raw.githubusercontent.com/mffellay/PCBs/main/PowerSupply/psu.png" alt="psu">
 
-## USB Audio Interface _Current project_
+## USB Audio Interface
+
+### _Current project_
 
 <img src="https://raw.githubusercontent.com/mffellay/PCBs/main/USBAudioInterface/audiointerface.png" alt="audiointerface" />
