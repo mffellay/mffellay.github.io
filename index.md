@@ -26,7 +26,7 @@ Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
 ### Power supply for guitar effect pedals. 6 Isolated 9V outputs.
 
-<img src="https://raw.githubusercontent.com/mffellay/PCBs/main/PowerSupply/psu.png" alt="psu">
+<img src="https://raw.githubusercontent.com/mffellay/PCBs/main/PowerSupply/powersupply3d.png" alt="powersupply3d">
 
 ### USB Audio Interface
 
