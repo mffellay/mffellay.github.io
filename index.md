@@ -17,10 +17,6 @@ Files can be found at: [3Dmodels repository](https://github.com/mffellay/3Dmodel
 
 ## 105mm. Quadcopter frame
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
 ## Power Supply case for effects pedals
 
 
@@ -29,10 +25,13 @@ Files can be found at: [3Dmodels repository](https://github.com/mffellay/3Dmodel
 
 # PCB
 
+Software used for this was KiCAD.
+Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
+
 ## Power supply for guitar effect pedals. 6 Isolated 9V outputs.
 
 ## USB Audio Interface
-### Current project
+   ### Current project
 
 ### Small image
 
@@ -42,24 +41,3 @@ Files can be found at: [3Dmodels repository](https://github.com/mffellay/3Dmodel
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
