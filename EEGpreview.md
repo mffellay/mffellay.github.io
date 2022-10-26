@@ -9,7 +9,7 @@ layout: default
 
 ### The development was made on Python (JupyterNotebooks) and a Nvidia Jetson Nano as the AI and processing unit.
 
-Files can be found at: [3Dmodels repository](https://github.com/mffellay/EEG).
+Files can be found at: [EEG Graduation Thesis repository](https://github.com/mffellay/EEG).
 
 
 [Main Site](./)
