@@ -32,7 +32,7 @@ Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
 #### Ongoing ####
 
-<img src="https://user-images.githubusercontent.com/37382177/198305848-706eab76-be98-4796-ad92-1fbacfe0cf52.png">
+<img src="https://raw.githubusercontent.com/mffellay/PCBs/main/pdb/DronePDB.png">
 
 ### USB Audio Interface
 
