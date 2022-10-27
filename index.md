@@ -28,8 +28,14 @@ Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
 <img src="https://raw.githubusercontent.com/mffellay/PCBs/main/PowerSupply/powersupply3d.png" alt="powersupply3d">
 
+### Drone power distribution board sample with 12V and 5V outputs, as well as a current monitor.
+
+#### Ongoing ####
+
+<img src="https://user-images.githubusercontent.com/37382177/198305848-706eab76-be98-4796-ad92-1fbacfe0cf52.png">
+
 ### USB Audio Interface
 
-##### _Current project_
+##### _Incomplete/Future project_
 
 <img src="https://raw.githubusercontent.com/mffellay/PCBs/main/USBAudioInterface/audiointerface.png" alt="audiointerface" />
