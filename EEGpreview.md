@@ -13,7 +13,7 @@ The development was made on Python (JupyterNotebooks) and a Nvidia Jetson Nano a
 
 Channels 1 and 2
 
-<img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/ch1-2.png" alt="chanel1-2">
+<img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/ch%201-2.png" alt="chanel1-2">
 
 Channels 3 and 4
 
