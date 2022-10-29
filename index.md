@@ -36,6 +36,6 @@ Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
 ### USB Audio Interface
 
-##### _Incomplete/Future project_
+##### _Incomplete/Ongoing_
 
 <img src="https://raw.githubusercontent.com/mffellay/PCBs/main/USBAudioInterface/audiointerface3d.png" alt="audiointerface3d" />
