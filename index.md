@@ -18,6 +18,11 @@ Files can be found at: [3Dmodels repository](https://github.com/mffellay/3Dmodel
 <img src="https://raw.githubusercontent.com/mffellay/3Dmodels/main/Power%20Supply%20case/casepsu.png" alt="casepsu">
 
 
+### Drone Brushless Motor
+
+<img src="https://raw.githubusercontent.com/mffellay/3Dmodels/main/0802%20motor/gifexplode.gif" alt:"explode">
+<img src="https://raw.githubusercontent.com/mffellay/3Dmodels/main/0802%20motor/gifrotate.gif" alt:"rotate">
+
 # PCB
 
 **Software used for this was KiCAD.**
