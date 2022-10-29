@@ -38,4 +38,4 @@ Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
 ##### _Incomplete/Future project_
 
-<img src="https://raw.githubusercontent.com/mffellay/PCBs/main/USBAudioInterface/audiointerface.png" alt="audiointerface" />
+<img src="https://raw.githubusercontent.com/mffellay/PCBs/main/USBAudioInterface/audiointerface3d.png" alt="audiointerface3d" />
