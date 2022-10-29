@@ -43,4 +43,3 @@ K-Means Algorithm test
 
 <img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/Kmeans.png" alt="Kmeans">
 
-[Main Site](./)
