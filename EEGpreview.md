@@ -11,9 +11,13 @@ The development was made on Python (JupyterNotebooks) and a Nvidia Jetson Nano a
 
 **Files can be found at: [EEG Graduation Thesis repository](https://github.com/mffellay/EEG).**
 
+50Hz Notch Filtered Samples
+
+<img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/samplesnotch.png" alt="notch">
+
 Channels 1 and 2
 
-<img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/ch%201-2.png" alt="chanel1-2">
+<img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/ch%201-2.png" alt="channel1-2">
 
 Channels 3 and 4
 
