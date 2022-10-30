@@ -20,9 +20,9 @@ Files can be found at: [3Dmodels repository](https://github.com/mffellay/3Dmodel
 
 ### Drone Brushless Motor
 
-![](https://raw.githubusercontent.com/mffellay/3Dmodels/main/0802%20motor/gifexplode.gif)
+![](https://raw.githubusercontent.com/mffellay/3Dmodels/main/0802%20motor/explode-motor.gif)
 
-![](https://raw.githubusercontent.com/mffellay/3Dmodels/main/0802%20motor/gifrotate.gif)
+![](https://raw.githubusercontent.com/mffellay/3Dmodels/main/0802%20motor/rotation-motor.gif)
 
 # PCB
 
