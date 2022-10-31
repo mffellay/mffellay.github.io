@@ -11,7 +11,7 @@ The development was made on Python (JupyterNotebooks) and a Nvidia Jetson Nano a
 
 **Files can be found at: [EEG Graduation Thesis repository](https://github.com/mffellay/EEG).**
 
-50Hz Notch Filtered Samples
+50Hz (Mains plug frequency) Notch Filtered Samples ([initializedata.py](https://github.com/mffellay/EEG/blob/main/initializedata.py))
 
 <img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/samplesnotch.png" alt="notch">
 
