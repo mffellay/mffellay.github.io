@@ -30,7 +30,7 @@ Files can be found at: [3Dmodels repository](https://github.com/mffellay/3Dmodel
 
 Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
-### Power supply for guitar effect pedals. 6 Isolated 9V outputs.
+### Power supply for guitar effect pedals. 6 isolated 9V outputs.
 
 <img src="https://raw.githubusercontent.com/mffellay/PCBs/main/PowerSupply/powersupply3d.png" alt="powersupply3d">
 
@@ -40,7 +40,7 @@ Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
 <img src="https://raw.githubusercontent.com/mffellay/PCBs/main/pdb/DronePDB.png">
 
-### USB Audio Interface
+### USB Audio Interface for Electric Guitar with volume and audio output.
 
 ##### _Incomplete/Ongoing_
 
