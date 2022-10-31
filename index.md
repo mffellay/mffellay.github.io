@@ -38,7 +38,7 @@ Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
 #### Ongoing ####
 
-<img src="https://raw.githubusercontent.com/mffellay/PCBs/main/pdb/DronePDB.png">
+<img src="https://raw.githubusercontent.com/mffellay/PCBs/main/pdb/dronepcb3d.png">
 
 ### USB Audio Interface for Electric Guitar with volume and audio output.
 
