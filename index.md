@@ -40,7 +40,7 @@ Files can be found at: [PCBs repository](https://github.com/mffellay/PCBs).
 
 <img src="https://raw.githubusercontent.com/mffellay/PCBs/main/pdb/dronepcb3d.png">
 
-### USB Audio Interface for Electric Guitar with volume and audio output.
+### USB Audio Interface for Electric Guitar with volume and headphone output.
 
 ##### _Incomplete/Ongoing_
 
