@@ -11,9 +11,13 @@ The development was made on Python (JupyterNotebooks) and a Nvidia Jetson Nano a
 
 **Files can be found at: [EEG Graduation Thesis repository](https://github.com/mffellay/EEG).**
 
+The first step is to record the signals through the 8 electrodes (channels) as comma separated values ([record.py](https://github.com/mffellay/EEG/blob/main/filtering.py))
+
 50Hz (Mains plug frequency) Notch Filtered Samples ([initializedata.py](https://github.com/mffellay/EEG/blob/main/initializedata.py))
 
 <img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/samplesnotch.png" alt="notch">
+
+For Channels 1 to 8 a Butterworth Bandpass Filter was applied, using 2Hz as lowcut frequency and 35Hz and highcut frequency. ([filtering.py](https://github.com/mffellay/EEG/blob/main/filtering.py))
 
 Channels 1 and 2
 
@@ -31,19 +35,21 @@ Channels 7 and 8
 
 <img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/ch7-8.png" alt="channel7-8">
 
-Sample to be used for Autoencoder training
+Since the peak of the signal can be visualized clearly on channels 1 and 2, these are selected for the Autoencoder Model training. ([autoencoder.py](https://github.com/mffellay/EEG/blob/main/autoencoder.py))
+
+The signal (channel 1) is shortened to the specific range of the peak as shown
 
 <img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/sampletotrain.png" alt="sample">
 
-Training the Autoencoder for 5/15/25/50 Epochs
+Then, the training process it plotted, comparing the input to the trained Autoencoder model (reconstruction of the signal) 5, 15, 25 and 50 Epochs.
 
 <img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/autoencodertraining.png" alt="training">
 
-Testing the trained model of the Autoencoder
+After 50 epochs, the model is tested on channel 2.
 
 <img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/autoencoderTesting.png" alt="autoencodertest">
 
-K-Means Algorithm test
+Then, using the same signal, the K-Means algorithm is applied, the goal being able to group the clusters on the signal peaks ([kmeans.py](https://github.com/mffellay/EEG/blob/main/kmeans.py))
 
 <img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/Kmeans.png" alt="Kmeans">
 
