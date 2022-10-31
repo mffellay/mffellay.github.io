@@ -13,7 +13,7 @@ The development was made on Python (JupyterNotebooks) and a Nvidia Jetson Nano a
 
 The first step is to record the signals through the 8 electrodes (channels) as comma separated values (.csv) ([record.py](https://github.com/mffellay/EEG/blob/main/filtering.py)).
 
-Then this .csv file is initialized and a 50Hz (Mains plug frequency) Notch filter is applied ([initializedata.py](https://github.com/mffellay/EEG/blob/main/initializedata.py)).
+Then this .csv file is initialized and a 50Hz (Mains plug frequency) Notch filter is applied. The plots show both the raw and the filtered signals ([initializedata.py](https://github.com/mffellay/EEG/blob/main/initializedata.py)).
 
 <img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/samplesnotch.png" alt="notch">
 
