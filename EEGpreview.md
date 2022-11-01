@@ -11,7 +11,7 @@ The development was made on Python (JupyterNotebooks) and a Nvidia Jetson Nano a
 
 **Files can be found at: [EEG Graduation Thesis repository](https://github.com/mffellay/EEG).**
 
-The first step is to record the signals through the 8 electrodes (channels) as comma separated values (.csv) ([record.py](https://github.com/mffellay/EEG/blob/main/filtering.py)).
+The first step is to record the signals through the 8 electrodes (channels) as comma separated values (.csv) ([record.py](https://github.com/mffellay/EEG/blob/main/record.py)).
 
 Then this .csv file is initialized and a 50Hz (Mains plug frequency) Notch filter is applied. The plots show both the raw and the filtered signals ([initializedata.py](https://github.com/mffellay/EEG/blob/main/initializedata.py)).
 
