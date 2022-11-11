@@ -41,7 +41,7 @@ The signal (channel 1) is shortened to the specific range of the peak as shown.
 
 <img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/sampletotrain.png" alt="sample">
 
-Then, the training process it plotted, comparing the input to the trained Autoencoder model (reconstruction of the signal) 5, 15, 25 and 50 Epochs.
+Then, the training process is plotted, comparing the input to the trained Autoencoder model (reconstruction of the signal) 5, 15, 25 and 50 Epochs.
 
 <img src="https://raw.githubusercontent.com/mffellay/EEG/main/pics/autoencodertraining.png" alt="training">
 
